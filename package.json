@@ -1,5 +1,7 @@
 {
   "name": "techpitgram",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
 }
